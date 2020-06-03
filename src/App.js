@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> Developed by Saqib Hussain.
         </p>
+        <p>After the hardwork of 1 day becasue it was running on the local host but was not able to deploy on surge but now it is been finally done!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
